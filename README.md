@@ -22,11 +22,13 @@ Once the data has been extracted on CSV, it was possible to further evaluate the
 Moreover, due to fluctuations in yearly averages, the data was evaluated considering moving averages (7-years) to provide smoother results during data visualization. 
 
 ## Data Visualization
-Once the dataset was ready, it was time to plug n play. The first chart shows a comparison between the global and local temperature set across the years. 
-![capture](https://user-images.githubusercontent.com/43564654/46089107-dd90c700-c1be-11e8-9ecd-429f31039f3c.PNG)
+Once the dataset was ready, it was time to plug n play. The first chart shows a comparison between the global and local temperature set across the years.<br>
 
-The second plot shows the global average temperature range across all the years to view a trend for the entire dataset.
-![capture2](https://user-images.githubusercontent.com/43564654/46089105-dcf83080-c1be-11e8-829d-e2f34ae21327.PNG)
+![capture](https://user-images.githubusercontent.com/43564654/46089107-dd90c700-c1be-11e8-9ecd-429f31039f3c.PNG)<br>
+
+The second plot shows the global average temperature range across all the years to view a trend for the entire dataset.<br>
+
+![capture2](https://user-images.githubusercontent.com/43564654/46089105-dcf83080-c1be-11e8-829d-e2f34ae21327.PNG)<br>
 
 ## Observations
 - Abu Dhabi's weather has been warmer than the global average in the past couple hunder years.
